@@ -1,0 +1,7 @@
+{
+  "name": "EmployeeMobile-Test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
